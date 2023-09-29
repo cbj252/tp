@@ -7,9 +7,9 @@
       "headings": {
         "about-us": "About Us",
         "project-team": "Project team",
-        "john-doe": "John Doe",
-        "jane-doe": "Jane Doe",
-        "johnny-doe": "Johnny Doe",
+        "chua-bing-jian": "Chua Bing Jian",
+        "teo-zern": "Teo Zern",
+        "yuan-tianci-jackson": "Yuan Tianci Jackson",
         "jean-doe": "Jean Doe",
         "james-doe": "James Doe"
       },
@@ -132,6 +132,22 @@
       "title": "",
       "headings": {
         "addressbook-level-3": "AddressBook Level-3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/cbj252.md",
+      "title": "Bing Jian's Project Portfolio Page",
+      "headings": {
+        "project-tassistant": "Project: TASsistant"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/jackson.md",
+      "title": "Jackson's Project Portfolio Page",
+      "headings": {
+        "project-tassistant": "Project: TASsistant"
       },
       "headingKeywords": {}
     },
