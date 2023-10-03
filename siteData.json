@@ -113,7 +113,6 @@
         "viewing-help-help": "Viewing help : help",
         "adding-a-person-add": "Adding a person: add",
         "listing-all-persons-list": "Listing all persons : list",
-        "editing-a-person-edit": "Editing a person : edit",
         "locating-persons-by-name-find": "Locating persons by name: find",
         "deleting-a-person-delete": "Deleting a person : delete",
         "clearing-all-entries-clear": "Clearing all entries : clear",
@@ -156,6 +155,11 @@
     },
     {
       "src": "team/jackson.md",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/jacksonyuan256.md",
       "title": "Jackson's Project Portfolio Page",
       "headings": {
         "project-tassistant": "Project: TASsistant"
@@ -167,6 +171,15 @@
       "title": "John Doe's Project Portfolio Page",
       "headings": {
         "project-addressbook-level-3": "Project: AddressBook Level 3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/teozern1.md",
+      "headings": {
+        "teozern1-s-project-portfolio-page": "teozern1's Project Portfolio Page",
+        "project-tassistant": "Project: TASsistant",
+        "documentation": "Documentation:"
       },
       "headingKeywords": {}
     },
