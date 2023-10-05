@@ -113,16 +113,23 @@
         "viewing-help-help": "Viewing help : help",
         "adding-a-person-add": "Adding a person: add",
         "listing-all-persons-list": "Listing all persons : list",
-        "locating-persons-by-name-find": "Locating persons by name: find",
         "deleting-a-person-delete": "Deleting a person : delete",
+        "search-search": "Search : search",
         "clearing-all-entries-clear": "Clearing all entries : clear",
         "exiting-the-program-exit": "Exiting the program : exit",
         "saving-the-data": "Saving the data",
         "editing-the-data-file": "Editing the data file",
         "archiving-data-files-coming-in-v2-0": "Archiving data files [coming in v2.0]",
+        "adds-a-module-to-the-addressbook-addmodule": "Adds a module to the addressBook: addModule",
+        "deletes-a-module-from-the-addressbook-deletemodule": "Deletes a module from the addressBook: deleteModule",
         "editing-a-student-s-name-editname": "Editing a Student's name : editName",
         "editing-a-student-s-student-number-editstudentnumber": "Editing a Student's student number: editStudentNumber",
         "editing-a-student-s-details-editdetail": "Editing a Student's details: editDetail",
+        "adding-a-user-to-a-given-module-addtomodule": "Adding a user to a given module: addToModule",
+        "removes-a-user-from-a-given-module-removefrommodule": "Removes a user from a given module: removeFromModule",
+        "adds-a-tutorial-to-a-given-module-addtutorial": "Adds a tutorial to a given module: addTutorial",
+        "removes-a-tutorial-to-a-given-module-removetutorial": "Removes a tutorial to a given module: removeTutorial",
+        "gives-a-specific-user-a-given-status-changestatus": "Gives a specific user a given status: changeStatus",
         "faq": "FAQ",
         "known-issues": "Known issues",
         "command-summary": "Command summary"
@@ -139,9 +146,9 @@
     },
     {
       "src": "team/alvisng.md",
-      "title": "John Doe's Project Portfolio Page",
+      "title": "Alvis' Project Portfolio Page",
       "headings": {
-        "project-island-showdown": "Project: Island Showdown"
+        "project-tassistant": "Project: TASsistant"
       },
       "headingKeywords": {}
     },
