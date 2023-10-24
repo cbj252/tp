@@ -129,10 +129,9 @@
         "adds-a-tutorial-to-a-given-module-addtutorial": "Adds a tutorial to a given module: addTutorial",
         "removes-a-tutorial-from-a-given-module-removetutorial": "Removes a tutorial from a given module: removeTutorial",
         "gives-a-specific-user-a-given-status-changestatus": "Gives a specific user a given status: changeStatus",
-        "adds-a-student-to-stated-tutorial-addstudent": "Adds a student to stated Tutorial: addStudent",
-        "removes-a-student-from-stated-tutorial-removestudent": "Removes a student from stated Tutorial: removeStudent",
-        "edit-the-name-of-the-stated-tutorial-editname": "Edit the name of the stated Tutorial: editName",
-        "edit-the-time-of-the-stated-tutorial-edittime": "Edit the time of the stated Tutorial: editTime",
+        "adds-a-student-to-stated-tutorial-addtotutorial": "Adds a student to stated Tutorial: addToTutorial",
+        "removes-a-student-from-stated-tutorial-removefromtutorial": "Removes a student from stated Tutorial: removeFromTutorial",
+        "edit-the-details-of-the-stated-tutorial-edittutorial": "Edit the details of the stated Tutorial: editTutorial",
         "known-issues": "Known issues",
         "command-summary": "Command summary"
       },
