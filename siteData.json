@@ -40,7 +40,8 @@
       "src": "DeveloperGuide.md",
       "title": "Developer Guide",
       "headings": {
-        "ab-3-developer-guide": "AB-3 Developer Guide",
+        "tassistant-developer-guide": "TAssistant Developer Guide",
+        "table-of-contents": "Table of Contents",
         "acknowledgements": "Acknowledgements",
         "setting-up-getting-started": "Setting up, getting started",
         "design": "Design",
@@ -51,6 +52,7 @@
         "storage-component": "Storage component",
         "common-classes": "Common classes",
         "implementation": "Implementation",
+        "module-tutorial-interaction": "Module-Tutorial Interaction",
         "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
         "proposed-data-archiving": "[Proposed] Data archiving",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
@@ -107,6 +109,7 @@
       "src": "UserGuide.md",
       "headings": {
         "tassistant-user-guide": "TASsistant User Guide",
+        "table-of-contents": "Table of Contents",
         "quick-start": "Quick start",
         "features": "Features",
         "viewing-help-help": "Viewing help : help",
@@ -128,12 +131,13 @@
         "removes-a-user-from-a-given-module-removefrommodule": "Removes a user from a given module: removeFromModule",
         "adds-a-tutorial-to-a-given-module-addtutorial": "Adds a tutorial to a given module: addTutorial",
         "removes-a-tutorial-from-a-given-module-removetutorial": "Removes a tutorial from a given module: removeTutorial",
-        "gives-a-specific-user-a-given-status-changestatus": "Gives a specific user a given status: changeStatus",
         "adds-a-student-to-stated-tutorial-addtotutorial": "Adds a student to stated Tutorial: addToTutorial",
         "removes-a-student-from-stated-tutorial-removefromtutorial": "Removes a student from stated Tutorial: removeFromTutorial",
         "edit-the-details-of-the-stated-tutorial-edittutorial": "Edit the details of the stated Tutorial: editTutorial",
         "known-issues": "Known issues",
-        "command-summary": "Command summary"
+        "command-summary": "Command summary",
+        "glossary": "Glossary",
+        "faq": "FAQ"
       },
       "headingKeywords": {}
     },
