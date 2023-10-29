@@ -107,6 +107,7 @@
     },
     {
       "src": "UserGuide.md",
+      "title": "User Guide",
       "headings": {
         "tassistant-user-guide": "TASsistant User Guide",
         "table-of-contents": "Table of Contents",
@@ -134,6 +135,7 @@
         "adds-a-student-to-stated-tutorial-addtotutorial": "Adds a student to stated Tutorial: addToTutorial",
         "removes-a-student-from-stated-tutorial-removefromtutorial": "Removes a student from stated Tutorial: removeFromTutorial",
         "edit-the-details-of-the-stated-tutorial-edittutorial": "Edit the details of the stated Tutorial: editTutorial",
+        "records-the-attendance-of-the-student-attn": "Records the attendance of the student: attn",
         "known-issues": "Known issues",
         "command-summary": "Command summary",
         "glossary": "Glossary",
