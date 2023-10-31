@@ -129,7 +129,7 @@
         "deletes-a-module-from-tassistant-deletemodule": "Deletes a module from TASsistant: deleteModule",
         "editing-a-student-s-details-editdetail-coming-soon": "Editing a Student's details: editDetail '[coming soon]'",
         "adding-a-user-to-a-given-module-addtomodule": "Adding a user to a given module: addToModule",
-        "removes-a-user-from-a-given-module-removefrommodule": "Removes a user from a given module: removeFromModule",
+        "removes-a-user-from-a-given-module-deletefrommodule": "Removes a user from a given module: deleteFromModule",
         "adds-a-tutorial-to-a-given-module-addtutorial": "Adds a tutorial to a given module: addTutorial",
         "removes-a-tutorial-from-a-given-module-removetutorial": "Removes a tutorial from a given module: removeTutorial",
         "adds-a-student-to-stated-tutorial-addtotutorial": "Adds a student to stated Tutorial: addToTutorial",
