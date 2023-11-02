@@ -134,6 +134,7 @@
         "adds-a-person-to-stated-tutorial-addtotutorial": "Adds a person to stated Tutorial: addToTutorial",
         "removes-a-person-from-stated-tutorial-removefromtutorial": "Removes a person from stated Tutorial: removeFromTutorial",
         "records-the-attendance-of-the-student-attn": "Records the attendance of the student: attn",
+        "deletes-the-attendance-of-the-student-deleteattn": "Deletes the attendance of the student: deleteAttn",
         "known-issues": "Known issues",
         "command-summary": "Command summary",
         "glossary": "Glossary",
