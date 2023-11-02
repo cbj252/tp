@@ -127,7 +127,6 @@
         "archiving-data-files-coming-in-v2-0": "Archiving data files [coming in v2.0]",
         "adds-a-module-to-tassistant-addmodule": "Adds a module to TASsistant: addModule",
         "deletes-a-module-from-tassistant-deletemodule": "Deletes a module from TASsistant: deleteModule",
-        "editing-a-student-s-details-editdetail-coming-soon": "Editing a Student's details: editDetail '[coming soon]'",
         "adding-a-user-to-a-given-module-addtomodule": "Adding a user to a given module: addToModule",
         "removes-a-user-from-a-given-module-removefrommodule": "Removes a user from a given module: removeFromModule",
         "adds-a-tutorial-to-a-given-module-addtutorial": "Adds a tutorial to a given module: addTutorial",
