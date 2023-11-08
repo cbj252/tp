@@ -1,0 +1,16 @@
+@startuml
+skin rose
+skinparam ActivityFontSize 15
+skinparam ArrowFontSize 12
+start
+:User executes AddToTutorial command with a valid tutorial;
+:Get the module code of the tutorial's module;
+:Check to see if user has a module with the module code found;
+
+if () then ([user already has a module with the module code])
+else ([else])
+    :Add the module to the user;
+endif
+:Add the tutorial to the user;
+stop
+@enduml

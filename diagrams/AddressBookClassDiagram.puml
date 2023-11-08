@@ -1,0 +1,50 @@
+@startuml
+!include style.puml
+skinparam arrowThickness 1.1
+skinparam arrowColor MODEL_COLOR
+skinparam classBackgroundColor MODEL_COLOR
+
+Package AddressBook as ModelPackage <<Rectangle>> {
+Class AddressBook
+
+package "Unique Lists" {
+    Class UniqueModuleList
+    Class UniqueTutorialList
+    Class UniquePersonList
+    Class UniqueAssignmentList
+}
+
+Class Person
+Class Person_Fields
+Class Tag
+Class Modules
+Class Tutorials
+
+Class Module
+
+Class Tutorial
+
+Class Assignment
+Class Title
+
+AddressBook *--> "1" UniquePersonList
+UniquePersonList --> "~* all" Person
+Person *--> Person_Fields
+Person *--> "*" Tag
+Person *--> "*" Modules
+Modules *--> Module
+Person *--> "*" Tutorials
+Tutorials *--> Tutorial
+
+AddressBook *--> "1" UniqueModuleList
+UniqueModuleList --> "~* all" Module
+
+AddressBook *--> "1" UniqueTutorialList
+UniqueTutorialList --> "~* all" Tutorial
+Tutorial --> Module
+
+AddressBook *--> "1" UniqueAssignmentList
+UniqueAssignmentList --> "~* all" Assignment
+Assignment --> Title
+
+@enduml
