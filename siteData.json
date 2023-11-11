@@ -67,7 +67,6 @@
         "adding-tutorials": "Adding Tutorials",
         "recording-attendance": "Recording attendance",
         "adding-an-assignment": "Adding an assignment",
-        "saving-data": "Saving data",
         "appendix-planned-enhancements": "Appendix: Planned Enhancements"
       },
       "headingKeywords": {}
@@ -112,7 +111,7 @@
       "src": "UserGuide.md",
       "title": "User Guide",
       "headings": {
-        "tassistant-user-guide": "TASsistant User Guide",
+        "tassistant-user-guide": "TAssistant User Guide",
         "table-of-contents": "Table of Contents",
         "quick-start": "Quick start",
         "layout": "Layout",
@@ -128,8 +127,8 @@
         "exiting-the-program-exit": "Exiting the program : exit",
         "saving-the-data": "Saving the data",
         "editing-the-data-file": "Editing the data file",
-        "adding-a-module-to-tassistant-addmodule": "Adding a module to TASsistant: addModule",
-        "deleting-a-module-from-tassistant-deletemodule": "Deleting a module from TASsistant: deleteModule",
+        "adding-a-module-to-tassistant-addmodule": "Adding a module to TAssistant: addModule",
+        "deleting-a-module-from-tassistant-deletemodule": "Deleting a module from TAssistant: deleteModule",
         "adding-a-person-to-a-given-module-addtomodule": "Adding a person to a given module: addToModule",
         "removing-a-person-from-a-given-module-removefrommodule": "Removing a person from a given module: removeFromModule",
         "adding-a-tutorial-to-a-given-module-addtutorial": "Adding a tutorial to a given module: addTutorial",
