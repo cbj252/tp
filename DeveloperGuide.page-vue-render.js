@@ -17,7 +17,7 @@ with(this){return _c('ul',[_c('li',[_c('strong',[_c('a',{attrs:{"href":"#acknowl
 with(this){return _c('h2',{attrs:{"id":"acknowledgements"}},[_c('strong',[_v("Acknowledgements")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#acknowledgements","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('em',[_v("{ list here sources of all reused/adapted ideas, code, documentation, and third-party libraries -- include links to the original source as well }")])])}
+with(this){return _c('ul',[_c('li',[_v("Libraries used: "),_c('a',{attrs:{"href":"https://openjfx.io/"}},[_v("JavaFX")]),_v(", "),_c('a',{attrs:{"href":"https://github.com/FasterXML/jackson"}},[_v("Jackson")]),_v(", "),_c('a',{attrs:{"href":"https://github.com/junit-team/junit5"}},[_v("JUnit5")]),_v(".")]),_v(" "),_c('li',[_v("This project is based on the AddressBook-Level3 project created by the "),_c('a',{attrs:{"href":"https://se-education.org"}},[_v("SE-EDU initiative")]),_v(".")])])}
 },function anonymous(
 ) {
 with(this){return _c('h2',{attrs:{"id":"setting-up-getting-started"}},[_c('strong',[_v("Setting up, getting started")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#setting-up-getting-started","onclick":"event.stopPropagation()"}})])}
@@ -317,6 +317,6 @@ with(this){return _c('h2',{attrs:{"id":"appendix-planned-enhancements"}},[_c('st
 with(this){return _c('ol',[_c('li',[_v("Currently, the addToModule and addToTutorial command, when used on a user that already has the given module, does not give an\nerror message. We intend to change this so that the commands when used on a user that already has the given\nmodule/tutorial will now give the error message "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("User already has the given module")]),_v(" or\n"),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("User already has the given tutorial")]),_v(" respectively in the output box.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Fri, 10 Nov 2023, 21:14:19 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Sat, 11 Nov 2023, 20:23:50 GMT+8]")])])])}
 }];
   
