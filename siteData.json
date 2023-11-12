@@ -113,8 +113,8 @@
       "title": "User Guide",
       "headings": {
         "tassistant-user-guide": "TAssistant User Guide",
-        "introduction": "Introduction",
         "table-of-contents": "Table of Contents",
+        "introduction": "Introduction",
         "quick-start": "Quick start",
         "layout": "Layout",
         "features": "Features",
