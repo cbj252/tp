@@ -41,9 +41,9 @@ JsonUserPrefsStorage .up.|> UserPrefsStorage
 JsonAddressBookStorage .up.|> AddressBookStorage
 JsonAddressBookStorage ..> JsonSerializableAddressBook
 JsonSerializableAddressBook -left-> "*" JsonAdaptedPerson
-JsonSerializableAddressBook -down-> "1" JsonAdaptedModule
-JsonSerializableAddressBook -down-> "1" JsonAdaptedTutorial
-JsonSerializableAddressBook -down-> "1" JsonAdaptedAssignment
+JsonSerializableAddressBook -down-> "*" JsonAdaptedModule
+JsonSerializableAddressBook -down-> "*" JsonAdaptedTutorial
+JsonSerializableAddressBook -down-> "*" JsonAdaptedAssignment
 JsonSerializableAddressBook -down-> "*" JsonAdaptedTag
 JsonAdaptedPerson --> "*" JsonAdaptedTag
 
